@@ -39,7 +39,7 @@ const numbers = [
   9,
   0,
 ]
-// [...sourceStr.matchAll(new RegExp(searchStr, 'gi'))].map(a => a.index)
+
 const findResult = (input) =>
   input
     .split("\n")
